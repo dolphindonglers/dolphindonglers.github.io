@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: jekyll-dash
+remote_theme: itstorque/jekyll-shell-theme
 plugins:
   - jekyll-feed
 
