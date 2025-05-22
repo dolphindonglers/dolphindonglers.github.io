@@ -7,7 +7,7 @@ layout: default
 permalink: /
 ---
 
-The home of the Dolphin Donglers™ -- RSI 2025's favorite cult.
+RSI 2025's favorite cult.
 
 More blog posts coming soon! Stay tuned, and maybe subscribe to the RSS feed.
 
