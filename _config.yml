@@ -28,7 +28,13 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: itstorque/jekyll-shell-theme
+remote_theme: b2a3e8/jekyll-theme-console
+style: light
+
+header_pages:
+  - index.md
+  - about.md
+
 plugins:
   - jekyll-feed
 
