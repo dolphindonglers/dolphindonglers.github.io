@@ -27,7 +27,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dolphindonglers
 permalink: /blog/:year-:month-:day-:title/
-disqus_username: dolphin-donglers
 comments: true
 
 # Build settings
