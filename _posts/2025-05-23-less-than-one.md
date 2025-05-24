@@ -22,3 +22,6 @@ To celebrate, some of the donglers have chosen to write up some brief inspiratio
 > ***Zevi*** no one had to convince the dolphin to learn how to swim. (swim)
 > <br><br>
 > ***Melis*** waaayyy too excited for everything!! hoping for less hot weather and rats and mosquitoes
+<br><br>
+***Iris***
+> Excited to meet so many new people and learn some cool research!
