@@ -9,4 +9,8 @@ comments: true
 
 Less than one month to RSI!!! Whopee!!!
 
-Someone finish this blog post pls
+To celebrate, some of the donglers have chosen to write up some brief inspirational snippets.
+
+> This is an inspirational quote from Bing Bong. Please finish this.
+> The quote can go for a while.
+> This is a really loooooooooooooooooooong inspirational quote. Bing Bong sure has a lot to say.
