@@ -16,12 +16,12 @@ More blog posts coming soon! Stay tuned, and maybe subscribe to the RSS feed.
 
 # Blog
 
-{% for post in site.posts %}
+{% for post in site.posts %}{% if post.unlisted %}{% else %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
       <h3>{{post.title}}</h3>
     </a>
-    <i>posted on {{ post.date | date: "%-d %b %Y" }}</i>
+    <i>{{ post.author }} posted on {{ post.date | date: "%-d %b %Y" }}</i>
     <p>
       {% if post.excerpt %}
         {{ post.excerpt }}
@@ -30,4 +30,4 @@ More blog posts coming soon! Stay tuned, and maybe subscribe to the RSS feed.
       {% endif %}
     </p>
   </div>
-{% endfor %}
+{% endif %}{% endfor %}
