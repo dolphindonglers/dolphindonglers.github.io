@@ -14,3 +14,5 @@ To celebrate, some of the donglers have chosen to write up some brief inspiratio
 > This is an inspirational quote from Bing Bong. Please finish this.
 > The quote can go for a while.
 > This is a really loooooooooooooooooooong inspirational quote. Bing Bong sure has a lot to say.
+
+Bing Bong: With school finally over, I can finally focus on the one month to RSI. It's time to get in shape, get studious, and read The Great Gatsby! ETA 29 Days.
