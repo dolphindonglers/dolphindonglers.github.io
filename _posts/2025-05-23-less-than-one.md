@@ -26,3 +26,5 @@ To celebrate, some of the donglers have chosen to write up some brief inspiratio
 > ***Melis*** waaayyy too excited for everything!! hoping for less hot weather and rats and mosquitoes
 <br><br>
 > ***Iris*** excited to meet so many new people and learn some cool research!
+<br><br>
+> ***Nishini*** never stop partying! 
