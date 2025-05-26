@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a blog run by a group of friends (who also happen to be RSI 2025
+[rickoids](https://en.wikipedia.org/wiki/Research_Science_Institute)).
+We are interested in and write about a wide range of things:
+- Goofy math stuff
+- Yapping in spanish
+- BBB
+- Dolphin anatomy
+- Inspirational quotes
+- Breaking the record for number of rsi relationships (/hj)
+- Life goals
+- Tomfoolery
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This is here for fun so try not to take anything 100% seriously, although
+depending on context... im going to stop talking now. Posts are mostly
+written by one or more members of the Dolphin Donglers™ but we might invite
+special guests sometimes (imagine if feng zhang contributed to our blog
+that would be epic)
