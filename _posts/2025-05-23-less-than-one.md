@@ -11,20 +11,20 @@ Less than one month to RSI!!! Whopee!!!
 
 To celebrate, some of the donglers have chosen to write up some brief inspirational quotes.
 
-> ***BingYi*** with school finally over, I can finally focus on the one month to RSI. It's time to get in shape, get studious, and read *The Great Gatsby*! ETA 29 Days.
+> ***baddie hunter*** with school finally over, I can finally focus on the one month to RSI. It's time to get in shape, get studious, and read *The Great Gatsby*! ETA 29 Days.
 <br><br>
-> ***Adi*** apparently we have to wear fancy clothes to lectures. i dont have enough. oh well time to go buy some
+> ***humbug*** apparently we have to wear fancy clothes to lectures. i dont have enough. oh well time to go buy some
 <br><br>
-> ***Rachel*** are there dolphins in the charles river? if not, we can fix that
+> ***category theorist*** are there dolphins in the charles river? if not, we can fix that
 > <br><br>
-> ***Graysen*** well butter my backside and call me a biscuit that's a blood-brain barrier innit
+> ***dolphin blower*** well butter my backside and call me a biscuit that's a blood-brain barrier innit
 > <br><br>
-> ***Zevi*** no one had to convince the dolphin to learn how to swim. (swim)
+> ***Monica*** no one had to convince the dolphin to learn how to swim. (swim)
 > <br><br>
-> ***Melis*** waaayyy too excited for everything!! hoping for less hot weather and rats and mosquitoes
+> ***european turkey*** waaayyy too excited for everything!! hoping for less hot weather and rats and mosquitoes
 <br><br>
-> ***Iris*** excited to meet so many new people and learn some cool research!
+> ***the sane one*** excited to meet so many new people and learn some cool research!
 <br><br>
-> ***Nishini*** never stop partying!
+> ***#1 party girl*** never stop partying!
 <br><br>
-> ***Oliver*** work like there's no tomorrow, party like tomorrow never comes.
+> ***convex*** work like there's no tomorrow, party like tomorrow never comes.
