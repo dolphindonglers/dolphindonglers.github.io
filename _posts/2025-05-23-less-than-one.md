@@ -29,3 +29,5 @@ To celebrate, some of the donglers have chosen to write up some brief inspiratio
 > ***#1 party girl*** never stop partying!
 <br><br>
 > ***convex*** work like there's no tomorrow, party like tomorrow never comes.
+> ***dingding*** I'm scared what will happen in the dorms at night...
+> 
