@@ -30,5 +30,5 @@ To celebrate, some of the donglers have chosen to write up some brief inspiratio
 <br><br>
 > ***convex*** work like there's no tomorrow, party like tomorrow never comes.
 <br><br>
-> ***dingding*** I'm scared what will happen in the dorms at night...
+> ***concave*** scared what will happen in the dorms at night...
 > 
