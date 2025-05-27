@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Less Than One..."
-author: Bing Bong & Co.
+author: baddie hunter & Co.
 date:   2025-05-23 23:45:07 -0400
 categories: rsi update
 comments: true
