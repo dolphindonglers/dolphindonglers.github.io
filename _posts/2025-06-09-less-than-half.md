@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Donglers Blog Post Tutorial"
+title: "Less Than Half"
 author: 海豚
 date: 2025-06-09 17:00:00 -0400
 categories: rsi update
@@ -31,7 +31,7 @@ great, 13 days left. here's a random post to commemorate the hype (and the crash
 ![what the sigma](https://github.com/user-attachments/assets/8004d409-e84a-44df-8e15-a1b31eb49225)
 
 {: style="text-align: center;"}
-*"WHAT DOES THIS EVEN MEAN" --dolphin blower*
+*"WHAT DOES THIS EVEN MEAN"  --- dolphin blower*
 <br><br><br>
 
 ![baddie hunting](https://github.com/user-attachments/assets/26faee55-8f7d-48bb-8163-e0a32176bb6c)
