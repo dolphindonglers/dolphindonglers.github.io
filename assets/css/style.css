@@ -19,8 +19,10 @@ a:hover	{
 
 img {
     display: block;
-    max-width: 100%;
+    max-width: 80%;
     border-radius: 6px 6px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #main {
