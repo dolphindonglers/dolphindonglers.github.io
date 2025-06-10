@@ -19,7 +19,7 @@ great, 13 days left. here's a random post to commemorate the hype (and the crash
 ![electric skateboard](https://github.com/user-attachments/assets/4bf9bf89-a259-42ef-ba6a-74fa844897f1)
 
 {: style="text-align: center;"}
-*someone \*\*cough cough\*\* convex \*\*cough cough\*\* thinks it's a good idea to bring an custom-made electric skateboard to rsi. he's already fallen off once*
+*someone (\*\*cough cough\*\* convex \*\*cough cough\*\*) thinks it's a good idea to bring an custom-made electric skateboard to rsi. he's already fallen off once*
 <br><br><br>
 
 ![cat grumpy](https://github.com/user-attachments/assets/fa7add8f-88cc-4c7d-8a31-665f74b19178)
