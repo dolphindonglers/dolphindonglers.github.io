@@ -16,7 +16,7 @@ More blog posts coming soon! Stay tuned, and maybe subscribe to the RSS feed.
 
 # Blog
 
-{% for post in site.posts %}{% if post.unlisted %}{% else %}
+{% for post in site.posts %}{% if post.unlisted %}{% else %}{% if post.categories contains "shitpost" %}{% else %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
       <h3>{{post.title}}</h3>
@@ -30,4 +30,4 @@ More blog posts coming soon! Stay tuned, and maybe subscribe to the RSS feed.
       {% endif %}
     </p>
   </div>
-{% endif %}{% endfor %}
+{% endif %}{% endif %}{% endfor %}
