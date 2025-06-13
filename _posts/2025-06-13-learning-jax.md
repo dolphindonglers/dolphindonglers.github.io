@@ -156,7 +156,7 @@ function.
 For example, let's say we have a function $f(x) = x^2 + 7^x$. We then know that:
 <div>$$
 \begin{align}
-f'(x) &= 2x + 7^x \ln 7 \\
+f'(x) &= 2x + 7^x (\ln 7) \\
 f''(x) &= 2 + 7^x (\ln 7)^2
 \end{align}
 $$</div>
