@@ -75,7 +75,7 @@ He crosses a different bridge this time—Lowell to Winthrop.
 
 White bell tower. Brick roads. It smells like old money and Biochem stress.
 
-Humbug eventually loops back to his dorm. His fingers are cold, but his heart is…less confused.
+Humpbug eventually loops back to his dorm. His fingers are cold, but his heart is…less confused.
 
 Improvement.
 
@@ -126,6 +126,7 @@ Maybe it’s about feeling something real in a life optimized for efficiency.
 Maybe locking in…
 
 isn’t about the code at all.
+
 
 
 
