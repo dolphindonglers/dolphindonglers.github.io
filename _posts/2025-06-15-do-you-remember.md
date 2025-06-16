@@ -7,11 +7,11 @@ categories: shitpost
 comments: true
 ---
 
-**LOCK IN, Adi.**
+**LOCK IN, Humbug.**
 
 Someone’s yelling in the hallway—probably a CS kid who just discovered Vim bindings.
 
-Adi nods to himself. Yeah. Lock in. Dial in. Grindset mode.
+Humbug nods to himself. Yeah. Lock in. Dial in. Grindset mode.
 
 But it’s hard to lock in when the scent of her shampoo—floral, with unsettling hints of bergamot—lingers in his head like a memory he never actually owned. GIRL1. Her name sits at the top of his mental stack, not even LRU eviction can clear it.
 
@@ -32,11 +32,11 @@ Hope? Running on fumes.
 It’s 1:00 a.m. Technically tomorrow.
 
 He grabs a half-warm Celsius from the “fridge” under his bed (read: the coldest part of his dorm floor + vibes) and heads outside.
-Why? Because somewhere in his delulu little heart, Adi still believes that dreams are forged under the night sky. Or at least, that walking counts as productivity.
+Why? Because somewhere in his delulu little heart, Humbug still believes that dreams are forged under the night sky. Or at least, that walking counts as productivity.
 
 Outside, the Boston air slaps him in the face like a Tutor handing back a paper draft he thought went well. His shirt flaps in the wind, oversized sleeves twirling like interpretive dancers. Goosebumps crawl up his arms. He calls them “emotional derivatives.” They spike when he thinks about her.
 
-The Charles glimmers beside him. The city skyline tries to look aesthetic but gives “PowerPoint background.” Still, it works. Adi feels free.
+The Charles glimmers beside him. The city skyline tries to look aesthetic but gives “PowerPoint background.” Still, it works. Humbug feels free.
 
 And then, like an unskippable ad, she appears in his mind. Again. But this time, not just a thought—a vision.
 
@@ -56,7 +56,7 @@ Or let the feelings rot elegantly like a vintage Camembert?
 
 In his mind, she wears the Van Cleef bracelet. It clinks against the Patek on his wrist. He only bought it for her. Not to impress—but to match. To say: *We’re on the same page. The same time.*
 
-Instead of heading back to Maseeh, Adi does what any emotionally frazzled boy with too many Coursera tabs open would do:
+Instead of heading back to Maseeh, Humbug does what any emotionally frazzled boy with too many Coursera tabs open would do:
 He **backpropagates**.
 
 Mistakes? Yes.
@@ -75,7 +75,7 @@ He crosses a different bridge this time—Lowell to Winthrop.
 
 White bell tower. Brick roads. It smells like old money and Biochem stress.
 
-Adi eventually loops back to his dorm. His fingers are cold, but his heart is…less confused.
+Humbug eventually loops back to his dorm. His fingers are cold, but his heart is…less confused.
 
 Improvement.
 
