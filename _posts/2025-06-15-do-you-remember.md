@@ -13,7 +13,7 @@ Someone’s yelling in the hallway—probably a CS kid who just discovered Vim b
 
 Humbug nods to himself. Yeah. Lock in. Dial in. Grindset mode.
 
-But it’s hard to lock in when the scent of her shampoo—floral, with unsettling hints of bergamot—lingers in his head like a memory he never actually owned. GIRL1. Her name sits at the top of his mental stack, not even LRU eviction can clear it.
+But it’s hard to lock in when the scent of her shampoo—floral, with unsettling hints of bergamot—lingers in his head like a memory he never actually owned. Her name sits at the top of his mental stack, not even LRU eviction can clear it.
 
 Instead of coding, his fingers betray him: **Ctrl+T**. Instagram. **Ctrl+T**. Discord. 
 
