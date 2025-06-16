@@ -8,10 +8,15 @@ comments: true
 ---
 
 **“Lock in!”**
+
 A voice ricochets down the hallway.
+
 Humbug tells himself he will. He must. Lock in.
+
 But the memory of her and the faint scent of something floral and soft, like blooming jasmine at dusk, unspools in his mind.
+
 He can’t.
+
 He can’t lock in.
 
 Staring at the sterile glow of his computer screen, Humbug finds his fingers drifting—Ctrl+T, muscle memory stronger than discipline. Instagram. Discord. Again. And again. He watches the server like a silent pulse, waiting for a message, a flicker of life, a sign he’s not alone.
