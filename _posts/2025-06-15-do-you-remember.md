@@ -7,68 +7,133 @@ categories: shitpost
 comments: true
 ---
 
-**“Lock in!”**
+**LOCK IN, Adi.**
 
-A voice ricochets down the hallway.
+Someone’s yelling in the hallway—probably a CS kid who just discovered Vim bindings.
 
-Humbug tells himself he will. He must. Lock in.
+Adi nods to himself. Yeah. Lock in. Dial in. Grindset mode.
 
-But the memory of her and the faint scent of something floral and soft, like blooming jasmine at dusk, unspools in his mind.
+But it’s hard to lock in when the scent of her shampoo—floral, with unsettling hints of bergamot—lingers in his head like a memory he never actually owned. GIRL1. Her name sits at the top of his mental stack, not even LRU eviction can clear it.
+
+Instead of coding, his fingers betray him: **Ctrl+T**. Instagram. **Ctrl+T**. Discord. 
+
+Every 20 seconds, like clockwork, waiting for a ping in the server. Nothing. Just a cursed .gif from Concave in #memes.
 
 He can’t.
 
 He can’t lock in.
 
-Staring at the sterile glow of his computer screen, Humbug finds his fingers drifting—Ctrl+T, muscle memory stronger than discipline. Instagram. Discord. Again. And again. He watches the server like a silent pulse, waiting for a message, a flicker of life, a sign he’s not alone.
+His Outlook is emptier than his GitHub contributions graph.
 
-Outlook: empty.
+His program is running—but only in the technical sense.
 
-The script runs: no error, no output.
+Hope? Running on fumes.
 
-Hope, like heat, dissipates.
+It’s 1:00 a.m. Technically tomorrow.
 
-It’s 1 a.m. now. To say he’s tired is a kindness. The hours after midnight pass in quicksilver—fast and slippery. Humbug reaches beneath his bed to the makeshift fridge he engineered from dorm scraps and pulls out a half-warm Celsius. He takes a sip, stands up, and steps out.
-Because the real dreams happen beneath the open sky.
+He grabs a half-warm Celsius from the “fridge” under his bed (read: the coldest part of his dorm floor + vibes) and heads outside.
+Why? Because somewhere in his delulu little heart, Adi still believes that dreams are forged under the night sky. Or at least, that walking counts as productivity.
 
-Outside, Boston’s night air wraps around him—sharp and alive.
+Outside, the Boston air slaps him in the face like a Tutor handing back a paper draft he thought went well. His shirt flaps in the wind, oversized sleeves twirling like interpretive dancers. Goosebumps crawl up his arms. He calls them “emotional derivatives.” They spike when he thinks about her.
 
-His shirt billows, arms flapping like sails. The wind catches him and spins him forward, goosebumps rippling up his arms.
-He likes it.
+The Charles glimmers beside him. The city skyline tries to look aesthetic but gives “PowerPoint background.” Still, it works. Adi feels free.
 
-The sky above is no longer black. It breathes—turning violet, cobalt, emerald, wine.
+And then, like an unskippable ad, she appears in his mind. Again. But this time, not just a thought—a vision.
 
-Humbug walks, free.
+He imagines her next to him.
 
-And then—like a sudden ache—the thought of her returns.
+Hand in hand.
 
-The sky morphs. Her face, not the stars, fills the dark.
+Soft skin on softer skin. Their hands intertwined. Shared silence. Walks across the bridge. The kind of scene that makes Spotify Wrapped confused.
 
-He imagines her walking beside him. Their hands intertwined—soft skin to soft skin. Her laugh tucked into the silence.
 Across the bridge now, the Charles below mirroring the city above. He stumbles slightly over the crack where bridge meets road—where Cambridge becomes Boston. Behind him, skyscrapers fade into silhouettes. Ahead: small apartments with sleepy windows.
 
 Humbug hesitates.
 
-Should he say something? Tell her? Or stay quiet—preserve the daydream?
+Should he tell her? Confess?
 
-In his mind, she wears the Van Cleef bracelet. It clinks against the Patek on his wrist. He only bought it for her. Not to impress—but to match. To say: We’re on the same page. The same time.
+Or let the feelings rot elegantly like a vintage Camembert?
 
-But instead of heading back the way he came, Humbug turns. He knows learning doesn’t happen in loops. It happens in **backpropagation**—errors traced, weights adjusted, meaning pulled from mistakes.
+In his mind, she wears the Van Cleef bracelet. It clinks against the Patek on his wrist. He only bought it for her. Not to impress—but to match. To say: *We’re on the same page. The same time.*
 
-So he walks parallel to the river, westward—toward Harvard. Past joggers and lamps and the soft lull of water. He crosses again, this time into the narrow, golden-lit streets of Lowell, past the ivory tower of Winthrop.
+Instead of heading back to Maseeh, Adi does what any emotionally frazzled boy with too many Coursera tabs open would do:
+He **backpropagates**.
 
-Eventually, Humbug returns to Maseeh. His hands are cold. His thoughts are clear.
+Mistakes? Yes.
+
+Learned parameters? Also yes.
+
+Romantic regression? *To be determined.*
+
+He walks parallel to the river. West.
+
+Toward Harvard.
+
+Past joggers and startup interns with Patagonia vests.
+
+He crosses a different bridge this time—Lowell to Winthrop.
+
+White bell tower. Brick roads. It smells like old money and Biochem stress.
+
+Adi eventually loops back to his dorm. His fingers are cold, but his heart is…less confused.
+
 Improvement.
 
-He falls into bed—and keeps falling.
+That’s what he tells himself, anyway.
 
-Through the dream. Through the air.
+He collapses into bed and immediately falls—
 
-And then—
+Not asleep, but through. Through the dream.
 
-He's awake.
+Down, down—until—
+
+
 
 She’s there.
 
 Next to him.
+
+Hair messy. Eyes closed. Hand in his.
+
+Her name is Han.
+
+And maybe—just maybe—he’s finally locked in.
+
+But what is locking in, really?
+
+Is it writing 600 lines of TensorFlow at 2 a.m. for a paper nobody reads?
+
+Is it grinding through Linear Algebra videos on 1.75x while your laundry molds quietly behind you?
+
+Is it optimizing your resume bullet points to sound like you saved a Fortune 500 company when you really just made a dashboard with three graphs?
+
+Or is it… this?
+
+The stupid, beautiful ache of wanting something more than output.
+
+The flutter in your chest when your hand brushes someone else’s.
+
+The brief pause before a Discord ping.
+
+The walk across the bridge where the wind feels like memory and the city looks like possibility.
+
+Maybe locking in was never just about school. Or work. Or becoming a god-tier SWE at Anthropic.
+
+Maybe it’s about being awake when the world is quiet.
+
+Maybe it’s about feeling something real in a life optimized for efficiency.
+
+Maybe locking in…
+
+isn’t about the code at all.
+
+
+
+Maybe it’s about the dream.
+
+And the girl.
+
+And the night that makes both feel just barely within reach.
+
 
 Maybe tomorrow he’ll say something. But tonight, he just dreams.
