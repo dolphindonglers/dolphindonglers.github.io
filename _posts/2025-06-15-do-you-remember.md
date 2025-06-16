@@ -52,7 +52,7 @@ Should he say something? Tell her? Or stay quiet—preserve the daydream?
 
 In his mind, she wears the Van Cleef bracelet. It clinks against the Patek on his wrist. He only bought it for her. Not to impress—but to match. To say: We’re on the same page. The same time.
 
-But instead of heading back the way he came, Adi turns. He knows learning doesn’t happen in loops. It happens in **backpropagation**—errors traced, weights adjusted, meaning pulled from mistakes.
+But instead of heading back the way he came, Humbug turns. He knows learning doesn’t happen in loops. It happens in **backpropagation**—errors traced, weights adjusted, meaning pulled from mistakes.
 
 So he walks parallel to the river, westward—toward Harvard. Past joggers and lamps and the soft lull of water. He crosses again, this time into the narrow, golden-lit streets of Lowell, past the ivory tower of Winthrop.
 
