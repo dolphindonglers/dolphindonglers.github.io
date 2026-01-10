@@ -14,8 +14,6 @@ More blog posts coming soon! Stay tuned, and maybe subscribe to the RSS feed.
 
 ---
 
-# Blog
-
 {% for post in site.posts %}{% if post.unlisted %}{% else %}{% if post.categories contains "shitpost" %}{% else %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
@@ -29,5 +27,6 @@ More blog posts coming soon! Stay tuned, and maybe subscribe to the RSS feed.
         {{ post.content }}
       {% endif %}
     </p>
+    <hr style="height:1px;color:#CCCCCC;">
   </div>
 {% endif %}{% endif %}{% endfor %}
