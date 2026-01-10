@@ -14,6 +14,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Test token access
+        env:
+          GH_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
+        run: |
+          echo "Testing API access to public repo..."
+          curl -s -H "Authorization: Bearer $GH_TOKEN" \
+            https://api.github.com/repos/dolphindonglers/dolphindonglers.github.io | head -20
+
       - name: Rewrite commits and push to public repo
         env:
           PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
