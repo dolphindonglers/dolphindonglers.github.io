@@ -9,30 +9,20 @@ jobs:
   mirror:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout private repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Rewrite commits and push to public repo
+      - name: Mirror with anonymous commits
         env:
           PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
-          ORG_NAME: "dolphindonglers"
-          PUBLIC_REPO_NAME: "dolphindonglers.github.io"
+          PRIVATE_REPO: "dolphindonglers/website"  # CHANGE THIS
+          PUBLIC_REPO: "dolphindonglers/dolphindonglers.github.io"
           ANON_NAME: "Anonymous"
           ANON_EMAIL: "anonymous@example.com"
         run: |
-          # Set up credentials FIRST, before any git operations
-          git config --global credential.helper store
-          echo "https://x-access-token:${PUBLIC_REPO_TOKEN}@github.com" > ~/.git-credentials
-          chmod 600 ~/.git-credentials
+          # Clone private repo using GitHub token
+          git clone --bare https://x-access-token:${PUBLIC_REPO_TOKEN}@github.com/${PRIVATE_REPO}.git private-repo
           
-          # Unset any existing GitHub Actions credentials
-          git config --global --unset-all http.https://github.com/.extraheader || true
+          cd private-repo
           
-          git config user.name "$ANON_NAME"
-          git config user.email "$ANON_EMAIL"
-          
+          # Rewrite all commits with anonymous author
           git filter-branch -f --env-filter '
             export GIT_AUTHOR_NAME="'"$ANON_NAME"'"
             export GIT_AUTHOR_EMAIL="'"$ANON_EMAIL"'"
@@ -40,5 +30,5 @@ jobs:
             export GIT_COMMITTER_EMAIL="'"$ANON_EMAIL"'"
           ' -- --all
           
-          git remote add public https://github.com/${ORG_NAME}/${PUBLIC_REPO_NAME}.git
-          git push public main --force
+          # Push to public repo
+          git push --force https://x-access-token:${PUBLIC_REPO_TOKEN}@github.com/${PUBLIC_REPO}.git main
