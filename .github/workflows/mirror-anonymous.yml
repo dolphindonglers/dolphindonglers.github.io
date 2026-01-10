@@ -1,0 +1,49 @@
+name: Mirror to Public Repo (Anonymous)
+
+on:
+  push:
+    branches:
+      - main  # CHANGE THIS if your default branch is different
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout private repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Rewrite commits and push to public repo
+        env:
+          ORG_NAME: "dolphindonglers"  # CHANGE THIS
+          PUBLIC_REPO_NAME: "dolphindonglers.github.io"  # CHANGE THIS
+          ANON_NAME: "Anonymous"  # CHANGE THIS if desired
+          ANON_EMAIL: "anonymous@example.com"  # CHANGE THIS if desired
+        run: |
+          git config user.name "$ANON_NAME"
+          git config user.email "$ANON_EMAIL"
+          
+          git filter-branch -f --env-filter '
+            export GIT_AUTHOR_NAME="'"$ANON_NAME"'"
+            export GIT_AUTHOR_EMAIL="'"$ANON_EMAIL"'"
+            export GIT_COMMITTER_NAME="'"$ANON_NAME"'"
+            export GIT_COMMITTER_EMAIL="'"$ANON_EMAIL"'"
+          ' -- --all
+          
+          git remote add public https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/${ORG_NAME}/${PUBLIC_REPO_NAME}.git
+          git push public main --force
+
+      - name: Enable GitHub Pages
+        env:
+          GH_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
+          ORG_NAME: "dolphindonglers"  # CHANGE THIS (same as above)
+          PUBLIC_REPO_NAME: "dolphindonglers.github.io"  # CHANGE THIS (same as above)
+        run: |
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            /repos/${ORG_NAME}/${PUBLIC_REPO_NAME}/pages \
+            -f "source[branch]=main" \
+            -f "source[path]=/" \
+            2>/dev/null || echo "Pages already enabled"
