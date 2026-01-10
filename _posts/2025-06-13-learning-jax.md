@@ -5,6 +5,7 @@ author: Adi
 date: 2025-06-13 17:06:00 -0400
 categories: project update
 comments: true
+unlisted: true
 excerpt: "The first real blog post."
 ---
 
