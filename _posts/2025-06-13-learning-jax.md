@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A first look at JAX"
-author: Adi
+author: redacted
 date: 2025-06-13 17:06:00 -0400
 categories: project update
 comments: true
