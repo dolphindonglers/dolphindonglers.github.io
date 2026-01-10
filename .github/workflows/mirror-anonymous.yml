@@ -3,7 +3,7 @@ name: Mirror to Public Repo (Anonymous)
 on:
   push:
     branches:
-      - main  # CHANGE THIS if your default branch is different
+      - main
 
 jobs:
   mirror:
@@ -22,6 +22,10 @@ jobs:
           ANON_NAME: "Anonymous"
           ANON_EMAIL: "anonymous@example.com"
         run: |
+          # Configure git credentials
+          git config --global credential.helper store
+          echo "https://x-access-token:${PUBLIC_REPO_TOKEN}@github.com" > ~/.git-credentials
+          
           git config user.name "$ANON_NAME"
           git config user.email "$ANON_EMAIL"
           
@@ -32,19 +36,5 @@ jobs:
             export GIT_COMMITTER_EMAIL="'"$ANON_EMAIL"'"
           ' -- --all
           
-          git remote add public https://x-access-token:${PUBLIC_REPO_TOKEN}@github.com/${ORG_NAME}/${PUBLIC_REPO_NAME}.git
+          git remote add public https://github.com/${ORG_NAME}/${PUBLIC_REPO_NAME}.git
           git push public main --force
-
-      - name: Enable GitHub Pages
-        env:
-          GH_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
-          ORG_NAME: "dolphindonglers"  # CHANGE THIS (same as above)
-          PUBLIC_REPO_NAME: "dolphindonglers.github.io"  # CHANGE THIS (same as above)
-        run: |
-          gh api \
-            --method POST \
-            -H "Accept: application/vnd.github+json" \
-            /repos/${ORG_NAME}/${PUBLIC_REPO_NAME}/pages \
-            -f "source[branch]=main" \
-            -f "source[path]=/" \
-            2>/dev/null || echo "Pages already enabled"
