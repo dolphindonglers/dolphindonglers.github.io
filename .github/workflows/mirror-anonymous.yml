@@ -8,6 +8,7 @@ on:
 jobs:
   mirror:
     runs-on: ubuntu-latest
+    if: github.repository == 'dolphindonglers/website'
     steps:
       - name: Mirror with anonymous commits
         env:
