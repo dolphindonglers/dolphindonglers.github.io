@@ -14,14 +14,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Test token access
-        env:
-          GH_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
-        run: |
-          echo "Testing API access to public repo..."
-          curl -s -H "Authorization: Bearer $GH_TOKEN" \
-            https://api.github.com/repos/dolphindonglers/dolphindonglers.github.io | head -20
-
       - name: Rewrite commits and push to public repo
         env:
           PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
@@ -30,9 +22,13 @@ jobs:
           ANON_NAME: "Anonymous"
           ANON_EMAIL: "anonymous@example.com"
         run: |
-          # Configure git credentials
+          # Set up credentials FIRST, before any git operations
           git config --global credential.helper store
           echo "https://x-access-token:${PUBLIC_REPO_TOKEN}@github.com" > ~/.git-credentials
+          chmod 600 ~/.git-credentials
+          
+          # Unset any existing GitHub Actions credentials
+          git config --global --unset-all http.https://github.com/.extraheader || true
           
           git config user.name "$ANON_NAME"
           git config user.email "$ANON_EMAIL"
