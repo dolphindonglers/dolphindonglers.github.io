@@ -14,22 +14,13 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Debug - check if secret exists
-        run: |
-          if [ -z "${{ secrets.PUBLIC_REPO_TOKEN }}" ]; then
-            echo "SECRET IS EMPTY"
-          else
-            echo "Secret is set (length: ${#TOKEN})"
-          fi
-        env:
-          TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
-
       - name: Rewrite commits and push to public repo
         env:
-          ORG_NAME: "dolphindonglers"  # CHANGE THIS
-          PUBLIC_REPO_NAME: "dolphindonglers.github.io"  # CHANGE THIS
-          ANON_NAME: "Anonymous"  # CHANGE THIS if desired
-          ANON_EMAIL: "anonymous@example.com"  # CHANGE THIS if desired
+          PUBLIC_REPO_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}
+          ORG_NAME: "dolphindonglers"
+          PUBLIC_REPO_NAME: "dolphindonglers.github.io"
+          ANON_NAME: "Anonymous"
+          ANON_EMAIL: "anonymous@example.com"
         run: |
           git config user.name "$ANON_NAME"
           git config user.email "$ANON_EMAIL"
@@ -41,7 +32,7 @@ jobs:
             export GIT_COMMITTER_EMAIL="'"$ANON_EMAIL"'"
           ' -- --all
           
-          git remote add public https://x-access-token:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/${ORG_NAME}/${PUBLIC_REPO_NAME}.git
+          git remote add public https://x-access-token:${PUBLIC_REPO_TOKEN}@github.com/${ORG_NAME}/${PUBLIC_REPO_NAME}.git
           git push public main --force
 
       - name: Enable GitHub Pages
