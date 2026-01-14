@@ -1,11 +1,8 @@
 ---
 layout: post
 title:  "Marty.md"
-author: your mom
 date:   2026-1-13
-categories: shitpost
 comments: true
-excerpt: blackmail gone wrong (top tier shitpost)
 ---
 
 I went to see marty supreme and it was really good.
