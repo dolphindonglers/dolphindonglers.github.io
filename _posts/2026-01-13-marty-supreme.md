@@ -3,6 +3,7 @@ layout: post
 title:  "Marty.md"
 date:   2026-1-13
 comments: true
+author: monica
 ---
 
 I went to see marty supreme and it was really good.
