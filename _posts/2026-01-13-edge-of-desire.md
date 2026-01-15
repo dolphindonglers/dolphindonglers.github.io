@@ -2,7 +2,9 @@
 layout: post
 title:  "Edge of Desire"
 date:   2026-01-13
+author: convex
 comments: true
+categories: shitpost
 ---
 
 Jason was halfway across Mass Ave when *Edge of Desire* came on. He hadn't queued it. Spotify had simply decided to be profound without asking permission.
