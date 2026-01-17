@@ -10,6 +10,32 @@
         <h2>{{ page.title }}</h2>
         <i>{{ page.author }} posted on {{ page.date | date: "%-d %b %Y" }}</i>
         {{ content }}
+        {% if page.background_audio %}
+          <audio id="bg-audio" src="{{ page.background_audio | relative_url }}" preload="auto"></audio>
+          <script>
+            (function () {
+              var audio = document.getElementById("bg-audio");
+              if (!audio) return;
+              audio.volume = 1.0;
+              var playAttempt = function () {
+                var promise = audio.play();
+                if (promise && promise.catch) promise.catch(function () {});
+              };
+              if (document.readyState === "complete") {
+                playAttempt();
+              } else {
+                window.addEventListener("load", playAttempt);
+              }
+              var resume = function () {
+                playAttempt();
+                window.removeEventListener("click", resume);
+                window.removeEventListener("keydown", resume);
+              };
+              window.addEventListener("click", resume);
+              window.addEventListener("keydown", resume);
+            })();
+          </script>
+        {% endif %}
 
         {% if page.categories.size > 0 %}
           <div id="categories">
