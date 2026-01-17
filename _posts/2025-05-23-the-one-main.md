@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Cupid at RSI"
+author: baddie hunter
+date:   2025-05-26
+categories: rsi
+comments: true
+excerpt: blackmail gone wrong
+background_audio: /Slow%20Dancing%20in%20a%20Burning%20Room%20-%20John%20Mayer%20%20Full%20Cover%20-%20Sean%20Mann.mp3
+---
+
+Under the sterile glow of Kendall Square’s LED-lit streetlamps and the looming presence of the Green Building, Baddie Hunter adjusted the cuffs of his boxy Uniqlo button-down—creased just right, like the lines of symmetry he traced during his Ross days. It was the first day of RSI, the Research Science Institute, the mecca of STEM prodigies and untapped romantic potential.  
+
+But Baddie Hunter wasn’t just here for semidefinite programming or RNA-seq modeling. No. This summer, he was on a mission: to secure what he and his Discord server affectionately called *the ABG*—Asian Baby Girl—a mysterious, radiant archetype of eyeliner so sharp it could bisect an eigenvector, lashes that fluttered like butterfly wings in a chaotic system, and an aura so intimidating it could destabilize an entire protein-ligand bond.  
+
+**Phase I: Identification**  
+He started with reconnaissance. The Maseeh dining hall, strategically located near where humanities lectures were held (a hotbed for ABGs majoring in psych + bio dual tracks), was fertile ground. Baddie Hunter noted every iced matcha latte, every claw clip, every Chrome Hearts knockoff. There. Table near the window. She laughed—*lightly, like helium escaping a half-inflated balloon*. Her nails were chrome-tipped. Her name tag read: *Vivian. LA. Neuro-inspired AI. Columbia-bound.* Baddie Hunter’s heart rate spiked like a poorly regularized loss function.  
+
+**Phase II: Optimization**  
+He began curating his wardrobe with surgical precision—cargo pants swapped for wide-leg Dickies, his Ross T-shirt replaced with a minimalist black tee, oversized enough to suggest ironic detachment but fitted enough to show he maybe lifts. He started casually name-dropping “LangChain,” “stochastic attention,” and “Berkeley EECS” during hallway convos. Even got caught “accidentally” carrying *The Brothers Karamazov*—annotated, naturally—into Athena cluster rooms.  
+
+**Phase III: Encounter**  
+At the ice cream social, he struck. Approaching with the confidence of a man who once scored full on USAMO #3, Baddie Hunter opened with:  
+
+“So what do you think of Transformer-based priors in cortical modeling? Overhyped?”  
+
+Vivian blinked.  
+
+“You're funny,” she said, taking a spoonful of ube ice cream.  
+
+Baddie Hunter smiled. **Hooked.** He subtly flexed his wrist to reveal his Casio calculator watch. She didn’t notice. That was fine. Calculated loss.  
+
+They talked. She was working on neural interfaces. He was working on predictive entropy in RNA splicing. She did ballet. He pretended to like Debussy. They found a rhythm, the kind that happens when two overachieving kids realize that maybe, just maybe, a spark could exist outside the lab.  
+
+**Phase IV: Refinement**  
+Over the next week, Baddie Hunter dialed it in. He scheduled “accidental” meet-cutes near the elevators, learned how to say “this sushi’s mid” with enough nonchalance to seem cool. He even offered boba recommendations—*“Yifang over Gong Cha, always”*—and asked, just once, if she liked rave music (she did). They exchanged Instagrams. He made her laugh twice during a poster session. During the mid-program Cambridge walk, she took a photo with him.  
+
+“Caption it?” she asked.  
+
+Baddie Hunter froze. Then smiled.  
+
+“ABG meets APG. MIT summer arc.”  
+
+She laughed, clicked, and posted.  
+
+Baddie Hunter—RSI finalist, theoretical biology researcher, and previously kissless overachiever—was in.  
+
+The dream wasn't just P = NP anymore. It was **P = Pull**.
