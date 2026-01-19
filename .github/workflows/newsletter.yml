@@ -101,7 +101,7 @@ jobs:
 
           print(f"Title: {title}")
           print(f"Excerpt: {excerpt}")
-          print(f"URL: {url}")
+          print(f"URL: {post_url}")
           
           # Create email body with excerpt and link
           email_body = f"""
