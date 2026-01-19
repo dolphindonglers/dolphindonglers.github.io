@@ -52,7 +52,7 @@ jobs:
           POST_DATE=$(echo "$FILENAME" | grep -oE '^[0-9]{4}-[0-9]{2}-[0-9]{2}')
           
           # Generate post URL (adjust YOUR_SITE_URL to your actual Jekyll site URL)
-          POST_SLUG=$(echo "$FILENAME" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//; s/\.(md|markdown)$//')
+          POST_SLUG=$(echo "$FILENAME" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//; s/\.md$//; s/\.markdown$//')
           YEAR=$(echo "$POST_DATE" | cut -d- -f1)
           MONTH=$(echo "$POST_DATE" | cut -d- -f2)
           DAY=$(echo "$POST_DATE" | cut -d- -f3)
