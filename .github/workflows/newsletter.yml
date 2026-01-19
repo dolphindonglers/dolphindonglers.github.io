@@ -57,6 +57,18 @@ jobs:
           MONTH=$(echo "$POST_DATE" | cut -d- -f2)
           DAY=$(echo "$POST_DATE" | cut -d- -f3)
           POST_URL="https://dolphindonglers.github.io/blog/$YEAR-$MONTH-$DAY-$POST_SLUG"
+
+          {
+            echo "title<<EOF"
+            echo "$TITLE"
+            echo "EOF"
+            echo "excerpt<<EOF"
+            echo "$EXCERPT"
+            echo "EOF"
+            echo "post_url<<EOF"
+            echo "$POST_URL"
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
       
       - name: Setup Python
         if: steps.check_new_post.outputs.new_post == 'true'
@@ -86,10 +98,13 @@ jobs:
           title = os.environ['POST_TITLE']
           excerpt = os.environ.get('POST_EXCERPT', '')
           post_url = os.environ['POST_URL']
+
+          print(f"Title: {title}")
+          print(f"Excerpt: {excerpt}")
+          print(f"URL: {url}")
           
           # Create email body with excerpt and link
           email_body = f"""
-          <h2>Someone made a new blog post! Check it out.</h2>
           <h3>{title}</h3>
           <p>{excerpt}</p>
           <p><a href="{post_url}">Read the full post →</a></p>
