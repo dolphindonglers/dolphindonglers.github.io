@@ -10,7 +10,7 @@ on:
 jobs:
   send-newsletter:
     runs-on: ubuntu-latest
-    
+    if: github.repository == 'dolphindonglers/website'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
