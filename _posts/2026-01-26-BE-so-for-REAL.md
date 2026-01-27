@@ -13,17 +13,18 @@ When I was a kid (aka 2 years ago), I was like… *wow*, I want to be an online 
 
 This is me.
 
-<img src="../assets/images/Blog_Image_1.jpg" alt="Selfie with Dust Mask" width="400"><img src="../assets/images/Blog_Image_2.jpg" alt="Hard Disk 1 New 1 Dusty" width="400">
+<img src="{{ '/assets/images/Blog_Image_1.jpg' | relative_url }}" alt="Selfie with Dust Mask" width="400"><img src="{{ '/assets/images/Blog_Image_2.jpg' | relative_url }}" alt="Hard Disk 1 New 1 Dusty" width="400">
 
 This is a glamorous photo of me from just last night actually. My desktop was so dusty I had to wear a mask. I replaced the hard drive in my computer for the first time 🤯 with an upgraded 4TB HD because my other one had broken in the past semester. But before you start imagining and assuming that I’m a cs-major, you’re right. 
 
 I was going to share a picture of me working on fixing my computer, but before I reveal my face, I’m going to have you play where is Waldo - except it has a slight twist. Where is *Erina*? Woah… But plot twist, even AI couldn’t spot me in the midst of many faces, so I’ll go ahead and make the game easy for you.
 
-<img src="../assets/images/Blog_Image_3.jpg" alt="AI Confusing Graysen and I" width="700">
+<img src="{{ '/assets/images/Blog_Image_3.jpg' | relative_url }}" alt="AI Confusing Graysen and I" width="700">
+
 
 According to Graysen’s AI, Graysen and I are identical, so if you’re ever looking for me, look for a girl version of Graysen. If you’re looking for my sibling, Emily (my roommate) said, “You look like you could be Oliver’s older sister.” Next up: Erina looks like BingYi’s aunt’s second-cousin’s granddaughter (Don’t ask Bingyi about it).
 
-<img src="../assets/images/Blog_Image_4.jpg" alt="Me with the Computer I Built" width="700">
+<img src="{{ '/assets/images/Blog_Image_4.jpg' | relative_url }}" alt="Me with the Computer I Built" width="700">
 
 Had \*some\* technical difficulties along the way to say the least, but fam we pulled through. “I’m happy to announce that Ubuntu is running on my computer that I fixed.” That definitely sounds LinkedIn core, so let me use this opportunity to pub my new linked in account. I mean, according to Oliver, you have to increase your connections to boost your huzz pool.
 
@@ -41,7 +42,7 @@ Actually, don’t connect with me, let’s try to see if I can prove the reverse
 
 Now, I don’t want to finish my first blog ever without giving credit and love to whom credit is due: my GOATED roommate! The AMAZING person on the left is my roommate Emily! She gracefully dances, easily goes into the splits, passes Organic Chemistry with an A first semester at college (aka cracked), gives me like five staggered presents on my birthday, draws better than a printer, and even with all this skill she’s so sweet/thoughtful. I’m guessing your jaw dropped lower than my jaw in the earlier picture of me. Yes, this person is real. She’s so real that she’s in my Be Real. 
 
-<img src="../assets/images/Blog_Image_5.png" alt="My Goated Roommate" width="500">
+<img src="{{ '/assets/images/Blog_Image_5.jpg' | relative_url }}" alt="My Goated Roommate" width="500">
 
 Emily is on the left. I am on the right.
 
