@@ -13,7 +13,7 @@ When I was a kid (aka 2 years ago), I was like… *wow*, I want to be an online 
 
 This is me.
 
-<img src="{{ '/assets/images/Blog_Image_1.jpg' | relative_url }}" alt="Selfie with Dust Mask" width="400"><img src="{{ '/assets/images/Blog_Image_2.jpg' | relative_url }}" alt="Hard Disk 1 New 1 Dusty" width="400">
+<img src="{{ '/assets/images/Blog_Image_2.jpg' | relative_url }}" alt="Selfie with Dust Mask" width="400"><img src="{{ '/assets/images/Blog_Image_2.jpg' | relative_url }}" alt="Hard Disk 1 New 1 Dusty" width="400">
 
 This is a glamorous photo of me from just last night actually. My desktop was so dusty I had to wear a mask. I replaced the hard drive in my computer for the first time 🤯 with an upgraded 4TB HD because my other one had broken in the past semester. But before you start imagining and assuming that I’m a cs-major, you’re right. 
 
@@ -42,7 +42,7 @@ Actually, don’t connect with me, let’s try to see if I can prove the reverse
 
 Now, I don’t want to finish my first blog ever without giving credit and love to whom credit is due: my GOATED roommate! The AMAZING person on the left is my roommate Emily! She gracefully dances, easily goes into the splits, passes Organic Chemistry with an A first semester at college (aka cracked), gives me like five staggered presents on my birthday, draws better than a printer, and even with all this skill she’s so sweet/thoughtful. I’m guessing your jaw dropped lower than my jaw in the earlier picture of me. Yes, this person is real. She’s so real that she’s in my Be Real. 
 
-<img src="{{ '/assets/images/Blog_Image_5.jpg' | relative_url }}" alt="My Goated Roommate" width="500">
+<img src="{{ '/assets/images/Blog_Image_5.png' | relative_url }}" alt="My Goated Roommate" width="500">
 
 Emily is on the left. I am on the right.
 
