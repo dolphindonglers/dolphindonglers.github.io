@@ -13,7 +13,7 @@ When I was a kid (aka 2 years ago), I was like… *wow*, I want to be an online 
 
 This is me.
 
-<img src="{{ '/assets/images/Blog_Image_2.jpg' | relative_url }}" alt="Selfie with Dust Mask" width="200"><img src="{{ '/assets/images/Blog_Image_2.jpg' | relative_url }}" alt="Hard Disk 1 New 1 Dusty" width="200">
+<img src="{{ '/assets/images/Blog_Image_1.jpg' | relative_url }}" alt="Selfie with Dust Mask" width="200"><img src="{{ '/assets/images/Blog_Image_2.jpg' | relative_url }}" alt="Hard Disk 1 New 1 Dusty" width="200">
 
 This is a glamorous photo of me from just last night actually. My desktop was so dusty I had to wear a mask. I replaced the hard drive in my computer for the first time 🤯 with an upgraded 4TB HD because my other one had broken in the past semester. But before you start imagining and assuming that I’m a cs-major, you’re right. 
 
