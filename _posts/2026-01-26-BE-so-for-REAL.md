@@ -12,8 +12,10 @@ excerpt: "Let me yap to you for 5 min"
 When I was a kid (aka 2 years ago), I was like… *wow*, I want to be an online blogger just writing about my life. I was inspired by the college blogs I read before going into college. Well look at me now, here’s my dreams becoming a reality - not on a university blog but on Dolphin Donglers 🐬(I still don’t know why it’s called this). I think this is neat because some of you have NEVER even met me before, so all of this is your first impression of me - lit.
 
 This is me.
-
-<img src="{{ '/assets/images/Blog_Image_1.jpg' | relative_url }}" alt="Selfie with Dust Mask" width="45%"><img src="{{ '/assets/images/Blog_Image_2.jpg' | relative_url }}" alt="Hard Disk 1 New 1 Dusty" width="45%">
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px;">
+<img src="{{ '/assets/images/Blog_Image_1.jpg' | relative_url }}" alt="Selfie with Dust Mask" width="45%">
+<img src="{{ '/assets/images/Blog_Image_2.jpg' | relative_url }}" alt="Hard Disk 1 New 1 Dusty" width="45%">
+</div>
 
 This is a glamorous photo of me from just last night actually. My desktop was so dusty I had to wear a mask. I replaced the hard drive in my computer for the first time 🤯 with an upgraded 4TB HD because my other one had broken in the past semester. But before you start imagining and assuming that I’m a cs-major, you’re right. 
 
