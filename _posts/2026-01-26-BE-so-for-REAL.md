@@ -3,7 +3,7 @@ layout: post
 title: "BE so for REAL"
 author: astrid
 date: 2026-01-26
-categories: random tutorial
+categories: random update
 comments: true
 unlisted: false
 excerpt: "Let me yap to you for 5 min"
