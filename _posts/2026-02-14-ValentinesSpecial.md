@@ -3,6 +3,7 @@ layout: post
 title:  "Valentines Day Special"
 date:   2026-02-14
 comments: true
+background_audio: "Gracie Abrams - I know it won't work (Official Lyric Video).mp3"
 ---
 
 Justin slid the white AirPods case out of his pocket. It bore the scars of its life. Key scratches. A mysterious dent. Evidence of previous battles. He poured isopropyl alcohol onto a Bounty paper towel and carefully wiped each AirPod, swiping along the thin rubber grille like he was prepping surgical instruments.
